@@ -44,27 +44,9 @@ Congratulations! You guessed the correct number.
 Total attempts: 4
 ```
 
-## Getting Started
-
-1. Clone the repository:
-
-```bash
-git clone <repository-url>
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd <project-folder>
-```
-
-3. Compile and/or run the program according to the programming language used for your implementation.
-
 ## Future Improvements
 
-* Add difficulty levels (Easy, Medium, Hard).
 * Limit the number of attempts.
 * Display a score based on attempts.
 * Allow multiple rounds without restarting the game.
-* Maintain a high-score leaderboard.
 * Add input validation for invalid or out-of-range values.
