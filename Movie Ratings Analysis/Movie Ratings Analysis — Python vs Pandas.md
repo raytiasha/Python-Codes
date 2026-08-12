@@ -25,11 +25,9 @@ View the code [here](https://github.com/raytiasha/Python-Codes/blob/main/Movie%2
 
 ## Approach 2: Pandas
 
-The second implementation uses Pandas DataFrames.
+The second implementation uses Pandas DataFrames, which handles many of the manual data-processing steps required in the pure Python approach.
 
 View the code [here](https://github.com/raytiasha/Python-Codes/blob/main/Movie%20Ratings%20Analysis/movie_ratings_pandas.py).
-
-This removes much of the manual data-processing code required with the csv module.
 
 ### The key difference
 
