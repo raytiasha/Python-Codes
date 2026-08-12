@@ -17,10 +17,10 @@ The program:
 - Reads the CSV file.
 - Separates the header from the data.
 - Iterates through each movie record.
-- Filters out missing IMDb ratings.
 - Optionally filters movies by industry.
 - Stores valid ratings in a list.
 - Calculates minimum, maximum, and average ratings.
+- 
 View the code [here](https://github.com/raytiasha/Python-Codes/blob/main/Movie%20Ratings%20Analysis/movie_ratings_python.py).
 
 ## Approach 2: Pandas
