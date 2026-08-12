@@ -20,7 +20,7 @@ The program:
 - Optionally filters movies by industry.
 - Stores valid ratings in a list.
 - Calculates minimum, maximum, and average ratings.
-- 
+  
 View the code [here](https://github.com/raytiasha/Python-Codes/blob/main/Movie%20Ratings%20Analysis/movie_ratings_python.py).
 
 ## Approach 2: Pandas
