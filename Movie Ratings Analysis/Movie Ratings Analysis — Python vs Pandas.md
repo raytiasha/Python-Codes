@@ -38,4 +38,4 @@ Pandas allows you to focus more directly on what you want to analyze.
 
 ### Related Technical Blog
 
-This project is accompanied by a technical blog explaining the transition from pure Python to Pandas and the key data-analysis concepts learned along the way.
+Read the full technical blog on [LinkedIn](https://www.linkedin.com/pulse/movie-ratings-analysis-python-vs-pandas-tiasha-ray-0ptnc/).
