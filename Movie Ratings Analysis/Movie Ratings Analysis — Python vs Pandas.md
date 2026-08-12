@@ -21,4 +21,21 @@ The program:
 - Optionally filters movies by industry.
 - Stores valid ratings in a list.
 - Calculates minimum, maximum, and average ratings.
-View the code [here]().
+View the code [here](https://github.com/raytiasha/Python-Codes/blob/main/Movie%20Ratings%20Analysis/movie_ratings_python.py).
+
+## Approach 2: Pandas
+
+The second implementation uses Pandas DataFrames.
+
+View the code [here](https://github.com/raytiasha/Python-Codes/blob/main/Movie%20Ratings%20Analysis/movie_ratings_pandas.py).
+
+This removes much of the manual data-processing code required with the csv module.
+
+### The key difference
+
+Pure Python focuses on how to process each record.
+Pandas allows you to focus more directly on what you want to analyze.
+
+### Related Technical Blog
+
+This project is accompanied by a technical blog explaining the transition from pure Python to Pandas and the key data-analysis concepts learned along the way.
